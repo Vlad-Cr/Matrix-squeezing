@@ -1,0 +1,3 @@
+﻿  MatrixSqueezing.cpp
+e:\myprojectsforlearning\matrixsqueezing\matrixsqueezing\matrixsqueezing.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MatrixSqueezing.vcxproj -> E:\MyProjectsForLearning\MatrixSqueezing\Debug\MatrixSqueezing.exe
